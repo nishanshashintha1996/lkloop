@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lkloop/static/css/main.31d6cfe0.css",
+    "main.js": "/lkloop/static/js/main.de8f0c6f.js",
+    "static/js/787.1d536120.chunk.js": "/lkloop/static/js/787.1d536120.chunk.js",
+    "index.html": "/lkloop/index.html",
+    "main.de8f0c6f.js.map": "/lkloop/static/js/main.de8f0c6f.js.map",
+    "787.1d536120.chunk.js.map": "/lkloop/static/js/787.1d536120.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.de8f0c6f.js"
+  ]
+}
