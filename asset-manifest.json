@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/lkloop/static/css/main.31d6cfe0.css",
-    "main.js": "/lkloop/static/js/main.a80da212.js",
+    "main.css": "/lkloop/static/css/main.93965c17.css",
+    "main.js": "/lkloop/static/js/main.fb4f9af4.js",
     "static/js/787.1d536120.chunk.js": "/lkloop/static/js/787.1d536120.chunk.js",
     "index.html": "/lkloop/index.html",
-    "main.a80da212.js.map": "/lkloop/static/js/main.a80da212.js.map",
+    "main.93965c17.css.map": "/lkloop/static/css/main.93965c17.css.map",
+    "main.fb4f9af4.js.map": "/lkloop/static/js/main.fb4f9af4.js.map",
     "787.1d536120.chunk.js.map": "/lkloop/static/js/787.1d536120.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.a80da212.js"
+    "static/css/main.93965c17.css",
+    "static/js/main.fb4f9af4.js"
   ]
 }
